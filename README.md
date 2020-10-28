@@ -25,8 +25,8 @@ To run tests, run the following command:
 ```npm test
 ```
 ## Question
- * [GitHub Profile](https://github.com/Blakequake)
- *[GitHub Profile](https://github.com/Dscroggins123)
+ * [Blakequake](https://github.com/Blakequake)
+ *[Dscroggins123](https://github.com/Dscroggins123)
  
 
 
