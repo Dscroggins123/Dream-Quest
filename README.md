@@ -28,13 +28,13 @@ To run tests, run the following command:
  * [Blakequake](https://github.com/Blakequake)
  *[Dscroggins123](https://github.com/Dscroggins123)
  
-![home](public/images/Screen Shot 2020-10-14 at 5.17.40 PM.png)
+![screenshot](./public/images/Screen Shot 2020-10-14 at 5.17.40 PM.png)
 
-![home](public/images/Screen Shot 2020-10-28 at 4.07.03 PM.png)
+![screenshot](./public/images/Screen Shot 2020-10-28 at 4.07.03 PM.png)
 
-![home](public/images/Screen Shot 2020-10-28 at 4.07.33 PM.png)
+![screenshot](./public/images/Screen Shot 2020-10-28 at 4.07.33 PM.png)
 
-![home](public/images/Screen Shot 2020-10-28 at 4.08.03 PM.png)
+![screenshot](./public/images/Screen Shot 2020-10-28 at 4.08.03 PM.png)
 
 
 
