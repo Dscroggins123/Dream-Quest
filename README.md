@@ -36,5 +36,7 @@ To run tests, run the following command:
 
 ![screenshot](./public/images/Screen Shot 2020-10-28 at 4.08.03 PM.png)
 
+![home](./public/images/Screen Shot 2020-10-28 at 4.08.03 PM.png)
+
 
 
