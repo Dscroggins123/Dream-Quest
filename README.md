@@ -29,7 +29,13 @@ To run tests, run the following command:
  
 ## Images 
 
-<img width="1437" alt="Screen Shot 2020-10-28 at 4 07 03 PM" src="https://user-images.githubusercontent.com/67929846/97510103-3ce2d780-1941-11eb-81b7-73d7ca01c4c3.png">
+<img width="737" alt="Screen Shot 2020-10-28 at 4 07 03 PM" src="https://user-images.githubusercontent.com/67929846/97510103-3ce2d780-1941-11eb-81b7-73d7ca01c4c3.png">
+
+
+<img width="740" alt="Screen Shot 2020-10-14 at 5 17 40 PM" src="https://user-images.githubusercontent.com/67929846/97510159-67cd2b80-1941-11eb-9968-20eb79826422.png">
+
+<img width="740" alt="Screen Shot 2020-10-28 at 4 07 33 PM" src="https://user-images.githubusercontent.com/67929846/97510217-82070980-1941-11eb-9d64-c867f73c0e63.png">
+
 
 
 
