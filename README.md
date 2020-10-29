@@ -28,7 +28,7 @@ To run tests, run the following command:
  *[Dscroggins123](https://github.com/Dscroggins123)
  
 ## Images 
-screen shot 3
+https://github.com/Dscroggins123/Dream-Quest/issues/3#issue-731895815
 
 
  
